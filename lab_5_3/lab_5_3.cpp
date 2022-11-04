@@ -6,7 +6,6 @@
 
 #include <iostream>
 
-#include <cmath>
 using namespace std;
 double j(const double x);
 int main()

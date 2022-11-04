@@ -1,0 +1,4 @@
+﻿  test_5_5.cpp
+C:\Users\Home\Desktop\projects\algoritm_5\test_5_5\test_5_5.cpp(16,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Home\Desktop\projects\algoritm_5\lab_5_5_alg\lab_5_5_alg.cpp(24): warning C4715: f: значение возвращается не при всех путях выполнения
+  test_5_5.vcxproj -> C:\Users\Home\Desktop\projects\algoritm_5\lab_5_5_alg\x64\Debug\test_5_5.dll

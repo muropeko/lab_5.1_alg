@@ -1,0 +1,4 @@
+﻿  lab_5_4_alg.cpp
+C:\Users\Home\Desktop\projects\algoritm_5\lab_5_4_alg\lab_5_4_alg.cpp(14,6): warning C4101: K: неиспользованная локальная переменная
+C:\Users\Home\Desktop\projects\algoritm_5\lab_5_4_alg\lab_5_4_alg.cpp(56,9): warning C4101: K: неиспользованная локальная переменная
+  lab_5_4_alg.vcxproj -> C:\Users\Home\Desktop\projects\algoritm_5\lab_5_4_alg\x64\Debug\lab_5_4_alg.exe

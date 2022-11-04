@@ -1,36 +1,24 @@
-﻿/*#include <iostream>
-#include <cmath>
-using namespace std;
-double h(const double x, const double y); 
-int main()
-{
-	double s, t;
-	
-	cout << "s = "; cin >> s;
-	cout << "t = "; cin >> t;
-	double c = h(pow(s,2),pow(t,2)) + h(pow(s+t,1),2);
-	cout << "c = " << c << endl;
-	return 0;
-}
-double h(const double x, const double y) 
-{
-	return ((x * y) / 1 + pow(x, 2) * pow(y, 2));
-}*/
+﻿// lab_5_1_alg.cpp
+// Довгошиї Анастасії
+// Лабораторна робота № 5.1
+//  Функції, що містять арифметичний вираз
+// Варіант 6
+
 #include <iostream>
 #include <cmath>
 using namespace std;
-double h(const double x, const double y, const double z); // прототип
+double h(const double x, const double y);
 int main()
 {
-	double a, b;
-	
-		cout << "a = "; cin >> a;
-	cout << "b = "; cin >> b;
-	double c = h(a, -b, 1) + h(2, a + b, abs(a - b));
+	double s, t;
+
+	cout << "s = "; cin >> s;
+	cout << "t = "; cin >> t;
+	double c = h(pow(s, 2), pow(t, 2)) + h(pow(s + t, 1), 2);
 	cout << "c = " << c << endl;
 	return 0;
 }
-double h(const double x, const double y, const double z) // визначення
+double h(const double x, const double y)
 {
-	return (x * x + x * z - y * z + y * y) / (x * x + abs(x * y * z) + z * z);
+	return ((x * y) / 1 + pow(x, 2) * pow(y, 2));
 }

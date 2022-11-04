@@ -13,7 +13,7 @@ namespace test51
 		{
 			int h;
 			h = (1,2);
-			Assert::AreEqual(h, 62);
+			Assert::AreEqual(h, 2);
 		}
 
 	};

@@ -1,0 +1,5 @@
+﻿  test_5_4.cpp
+C:\Users\Home\Desktop\projects\algoritm_5\lab_5_4_alg\lab_5_4_alg.cpp(14,6): warning C4101: K: неиспользованная локальная переменная
+C:\Users\Home\Desktop\projects\algoritm_5\lab_5_4_alg\lab_5_4_alg.cpp(56,9): warning C4101: K: неиспользованная локальная переменная
+C:\Users\Home\Desktop\projects\algoritm_5\test_5_4\test_5_4.cpp(16,10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  test_5_4.vcxproj -> C:\Users\Home\Desktop\projects\algoritm_5\lab_5_4_alg\x64\Debug\test_5_4.dll
